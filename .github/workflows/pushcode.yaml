@@ -20,4 +20,4 @@ jobs:
         with:
           context: foosball/
           push: true
-          tags: eschild3/is436_lab4:${{github.run_number}}
+          tags: eschild3/class_lab:${{github.run_number}}
